@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "manwanivarun961@gmail.com",
+      "email": "manwanivarun961@gmail.com",
+      "mobile": 9834689909,
+      "address": "ROOM NO.15 B.K.NO.939 SECTION-22 ULHASNAGAR-3",
+      "services": "something"
+    },
+    {
+      "id": 4,
+      "name": "sdgf",
+      "email": "manwanivarun961@gmail.com",
+      "mobile": 9834689909,
+      "address": "ROOM NO.15 B.K.NO.939 SECTION-22 ULHASNAGAR-3",
+      "services": "food"
+    },
+    {
+      "id": 5,
+      "name": "manwanivarun961@gmail.com",
+      "email": "manwanivarun961@gmail.com",
+      "mobile": 9834689909,
+      "address": "ROOM NO.15 B.K.NO.939 SECTION-22 ULHASNAGAR-3",
+      "services": null
+    }
+  ],
+  "signup": [
+    {
+      "name": "",
+      "mobile": "",
+      "email": "",
+      "password": "",
+      "id": 1
+    },
+    {
+      "name": "Varun Manwani",
+      "mobile": 9834689909,
+      "email": "manwanivarun961@gmail.com",
+      "password": "harteding",
+      "id": 2
+    },
+    {
+      "name": "Varun Manwani",
+      "mobile": 9834689909,
+      "email": "manwanivarun961@gmail.com",
+      "password": "Varun3535",
+      "id": 3
+    },
+    {
+      "name": "Varun Manwani",
+      "mobile": 9834689909,
+      "email": "manwanivarun961@gmail.com",
+      "password": "popopopo",
+      "id": 4
+    },
+    {
+      "name": "varun",
+      "mobile": 9834689909,
+      "email": "abc123@gmail.com",
+      "password": "abc3535",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

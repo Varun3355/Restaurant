@@ -1,0 +1,12 @@
+.card{
+    margin-top: 15px;
+    border: solid rgb(95, 247, 71);
+    width: 550px;
+    padding: 45px;
+    position: absolute;
+    top: 10%;
+    left: 35%;
+}
+.sign{
+    background-color: rgb(95, 247, 71);
+}
